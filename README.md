@@ -4,5 +4,3 @@ This repository contains the implementation code for the paper "Self-Organizatio
 
 The code implements the EvoSK model: a minimal evolutionary model where agents perform memory-dependent reinforcement learning on a Sherrington-Kirkpatrick spin-glass landscape. 
 This model demonstrates how complex adaptive systems spontaneously self-organize to a critical state at the ergodicity-breaking transition, achieving optimal performance without external tuning.
-
-Citation information will be added upon publication.
